@@ -10,11 +10,9 @@ The code for the implementation is coming soon.
 ## Citation
 
 If you find this work useful, please consider citing:
-@misc{wang2024drones,
-      title={Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond}, 
-      author={Zhechao Wang and Peirui Cheng and Mingxin Chen and Pengju Tian and Zhirui Wang and Xinming Li and Xue Yang and Xian Sun},
-      year={2024},
-      eprint={2405.14674},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{wang2024drones,
+  title={Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond},
+  author={Wang, Zhechao and Cheng, Peirui and Chen, Mingxin and Tian, Pengju and Wang, Zhirui and Li, Xinming and Yang, Xue and Sun, Xian},
+  journal={arXiv preprint arXiv:2405.14674},
+  year={2024}
 }
