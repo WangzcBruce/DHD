@@ -5,14 +5,14 @@ This repository contains the official PyTorch implementation of the paper titled
 
 ## Code
 
-The code for the implementation is coming soon.
+The code for the implementation is available now.
 
 ## Citation
 
 If you find this work useful, please consider citing:
-@article{wang2024drones,
-  title={Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond},
-  author={Wang, Zhechao and Cheng, Peirui and Chen, Mingxin and Tian, Pengju and Wang, Zhirui and Li, Xinming and Yang, Xue and Sun, Xian},
-  journal={arXiv preprint arXiv:2405.14674},
-  year={2024}
+@inproceedings{
+title={Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond},
+author={Wang Z, Cheng P, Chen M, Tian P, Wang Z, Li X, Yang X, Sun X.},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024}
 }
