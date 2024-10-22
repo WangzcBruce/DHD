@@ -55,7 +55,7 @@ python train.py --config=dhd/config/dhd.yml \
 
 ## Model Evaluation
 
-To evaluate the model with pre-trained weights, run:
+To evaluate the model with trained weights, run:
 
 ```bash
 python test.py --config dhd/config/dhd.yml \
