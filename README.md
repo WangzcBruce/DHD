@@ -5,7 +5,7 @@ Welcome to the official PyTorch implementation of **"Drones Help Drones: A Colla
 
 ## Code Availability
 
-The implementation code is now accessible for public use and contribution.
+The implementation code is now available.
 
 ### Latest News
 **"Drones Help Drones"** has been accepted as a Poster at the **Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).**
