@@ -8,7 +8,7 @@ Welcome to the official PyTorch implementation of **"Drones Help Drones: A Colla
 The implementation code is now available.
 
 ### Latest News
-**"Drones Help Drones"** has been accepted as a Poster at the **Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).**
+**"Drones Help Drones"** has been accepted as a Poster at the **Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).** You can access the paper on [arXiv](https://arxiv.org/abs/2405.14674).
 
 ## Setup Instructions
 
@@ -88,4 +88,5 @@ If you find this work helpful in your research, please consider citing us:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2405.14674}, 
+}
 ```
