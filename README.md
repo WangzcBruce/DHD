@@ -78,3 +78,14 @@ If you find this work helpful in your research, please consider citing us:
   year={2024}
 }
 ```
+
+```bibtex
+@misc{wang2024droneshelpdronescollaborative,
+      title={Drones Help Drones: A Collaborative Framework for Multi-Drone Object Trajectory Prediction and Beyond}, 
+      author={Zhechao Wang and Peirui Cheng and Mingxin Chen and Pengju Tian and Zhirui Wang and Xinming Li and Xue Yang and Xian Sun},
+      year={2024},
+      eprint={2405.14674},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.14674}, 
+```
