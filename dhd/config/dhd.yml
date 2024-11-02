@@ -22,7 +22,7 @@ LIFT:
   D_BOUND: [0.0, 10.0, 0.1]
   Z_BOUND: [-60.0, -40.0, 20.0]
 IMAGE:
-  NAMES : ['UAV_1_1', 'UAV_1_2', 'UAV_1_3', 'UAV_2']
+  NAMES : ['UAV_1', 'UAV_2', 'UAV_3', 'UAV_4']
   # # Short
   # X_BOUND: [-25.0, 25.0, 0.25]  # Forward
   # Y_BOUND: [-25.0, 25.0, 0.25]  # Sides
