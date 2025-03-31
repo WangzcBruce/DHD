@@ -7,6 +7,10 @@ Welcome to the official PyTorch implementation of **"Drones Help Drones: A Colla
 
 The implementation code is now available.
 
+### Compatibility
+This implementation is compatible with PyTorch 2.x, and has been verified to run on NVIDIA H100 GPUs for both training and inference. No additional changes are required—just ensure your CUDA and driver versions support H100, and install the necessary dependencies from environment-torch-2.0.yml.
+
+
 ### Latest News
 **"Drones Help Drones"** has been accepted as a Poster at the **Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024).** You can access the paper on [arXiv](https://arxiv.org/abs/2405.14674).
 
