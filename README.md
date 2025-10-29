@@ -31,8 +31,8 @@ Ensure you replace the `splits.py` file in the `nuscenes` package (typically fou
 
 Download the complete **Air-Co-Pred** dataset, which includes the Trainval dataset (metadata and file blobs parts 0-36), from the following link:
 
-[Download Link](https://pan.baidu.com/s/1XRgtXcLHS4fk02EqE-mYUQ)  
-Access Code: `4av8`
+[Download Link]([https://pan.baidu.com/s/1XRgtXcLHS4fk02EqE-mYUQ](https://pan.baidu.com/s/1wAtk3cSQWPPRMtv-xB-YuQ))  
+Access Code: `ok97`
 
 Once downloaded, extract the `.tar` files into your desired data root directory (`YOUR_DATAROOT`), organizing them as follows:
 
