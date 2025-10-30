@@ -33,7 +33,7 @@ Download the complete **Air-Co-Pred** dataset, which includes the Trainval datas
 
 [Download Link] https://pan.baidu.com/s/1XRgtXcLHS4fk02EqE-mYUQ
 Access Code: `ok97`
-
+or https://huggingface.co/datasets/BRUCE-WZC/AIR
 Once downloaded, extract the `.tar` files into your desired data root directory (`YOUR_DATAROOT`), organizing them as follows:
 
 ```bash
